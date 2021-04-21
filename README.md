@@ -13,5 +13,4 @@ Customer churn refers to the loss of existing clients or customers. Customer loy
 * The solution automatically conducts feature interaction on the training data and selects a subset of features based on feature importance. It then trains multiple models and identifies the best performing model. This model is then selected for prediction on new data. 
 * Mphasis HyperGraf is an omni-channel customer 360 analytics solution. Need customized Machine Learning and Deep Learning solutions? Get in touch!
 
-## Amazon Marketplace Link
-The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-uune45vukqlk2?qid=1618914681902&sr=0-6&ref_=srh_res_product_title)
+
